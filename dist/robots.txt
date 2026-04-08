@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-first-aid-plumbing-specialist-inc.dream-surge.com/sitemap-index.xml

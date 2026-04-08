@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "First Aid Plumbing Specialist INC",
+    "phone": "+18322793065",
+    "category": "plumber",
+    "city": "Houston",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Houston's Plumbing First Responders",
+      "heroSubline": "Fast, reliable plumbing solutions when you need them most. Serving Houston and surrounding areas with expert precision.",
+      "aboutTitle": "Your Trusted Houston Plumbing Partner",
+      "aboutText": [
+        "First Aid Plumbing Specialist INC was founded over a decade ago right here in Houston. We saw a need for plumbers who not only knew their trade but also understood the unique challenges Houston homes face – from aging infrastructure to the constant threat of flooding and humidity.",
+        "Our approach is simple: diagnose accurately, communicate clearly, and execute flawlessly. We believe in transparent pricing, honest advice, and lasting solutions, not quick fixes. We treat every home as if it were our own, ensuring minimal disruption and maximum satisfaction.",
+        "We're proud to be part of the Houston community. We actively support local initiatives and strive to be a responsible neighbor. Our commitment extends beyond pipes and fixtures; it's about building lasting relationships and contributing to a thriving Houston."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Plumbing emergencies don't wait, and neither do we. We're available around the clock to handle your urgent plumbing needs."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team consists of highly trained and certified plumbers with years of experience tackling Houston's toughest plumbing problems."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No surprises or hidden fees. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work. If you're not completely satisfied, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Solve Your Plumbing Problems Now",
+      "ctaSubline": "Call First Aid Plumbing Specialist INC for immediate assistance. Your satisfaction is our priority."
+    },
+    "services": [
+      {
+        "slug": "drain-cleaning",
+        "name": "Drain Cleaning",
+        "shortDescription": "Fast and effective drain cleaning services to keep your plumbing flowing smoothly.",
+        "description": "Clogged drains are a common nuisance in Houston homes, especially with older plumbing systems and the heavy rainfall we experience. First Aid Plumbing Specialist INC offers comprehensive drain cleaning services to clear blockages and prevent future problems. We use a variety of techniques, including snaking, hydro jetting, and camera inspections, to accurately diagnose the cause of the clog and provide the most effective solution. Whether it's a simple hair clog in your shower drain or a more complex blockage in your sewer line, we have the expertise and equipment to get your drains flowing freely again.\n\nOur drain cleaning services go beyond simply removing the clog. We also inspect your pipes for signs of damage or corrosion, which are common issues in Houston's humid climate. We'll provide you with a detailed report of our findings and recommend any necessary repairs or preventative measures to keep your plumbing system in top condition. Don't let a clogged drain disrupt your day – call First Aid Plumbing Specialist INC for fast and reliable drain cleaning services.",
+        "process": [
+          "Step 1: Diagnose the clog using camera inspection.",
+          "Step 2: Select the appropriate cleaning method (snaking, hydro jetting).",
+          "Step 3: Clear the blockage and flush the drain.",
+          "Step 4: Inspect the drain to ensure proper flow and identify any potential issues."
+        ],
+        "benefits": [
+          "Eliminates foul odors",
+          "Prevents water damage",
+          "Restores proper drainage",
+          "Extends the life of your plumbing"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my drains cleaned?",
+            "answer": "It depends on your usage and the age of your plumbing. We recommend an annual inspection and cleaning to prevent build-up and potential problems."
+          },
+          {
+            "question": "What are the signs of a clogged drain?",
+            "answer": "Slow draining water, gurgling sounds, and foul odors are all common signs of a clogged drain. If you notice any of these, call us for a professional inspection."
+          },
+          {
+            "question": "Is hydro jetting safe for my pipes?",
+            "answer": "When performed by a trained professional, hydro jetting is a safe and effective way to clean your drains. We'll assess your pipes and use the appropriate pressure to avoid any damage."
+          }
+        ]
+      },
+      {
+        "slug": "water-heater-repair",
+        "name": "Water Heater Repair & Installation",
+        "shortDescription": "Expert repair and installation of all types of water heaters.",
+        "description": "A malfunctioning water heater can disrupt your entire household, especially during Houston's cooler months. First Aid Plumbing Specialist INC specializes in water heater repair and installation, offering prompt and reliable service to get your hot water flowing again. Whether you have a traditional tank water heater or a modern tankless system, our experienced technicians have the knowledge and skills to diagnose and repair any issue. We work with all major brands and models, and we're committed to providing honest and affordable solutions.\n\nWe understand the importance of a properly functioning water heater, and we'll do everything we can to get yours back up and running quickly. If repair isn't an option, we'll help you choose the right replacement water heater for your needs and budget. We'll handle the entire installation process, ensuring that your new water heater is properly connected and operating efficiently. Don't suffer through another cold shower – call First Aid Plumbing Specialist INC for expert water heater service.",
+        "process": [
+          "Step 1: Diagnose the water heater problem.",
+          "Step 2: Provide a detailed repair estimate.",
+          "Step 3: Perform necessary repairs or recommend replacement.",
+          "Step 4: Install new water heater and ensure proper operation."
+        ],
+        "benefits": [
+          "Restores hot water quickly",
+          "Reduces energy costs",
+          "Extends the life of your water heater",
+          "Ensures safe and reliable operation"
+        ],
+        "faq": [
+          {
+            "question": "How long does a water heater typically last?",
+            "answer": "Most water heaters last between 8 and 12 years. Regular maintenance can help extend its lifespan."
+          },
+          {
+            "question": "What are the signs that my water heater needs repair?",
+            "answer": "Lack of hot water, rusty water, strange noises, and leaks are all signs that your water heater may need repair."
+          },
+          {
+            "question": "Is a tankless water heater right for me?",
+            "answer": "Tankless water heaters offer on-demand hot water and can save energy, but they may not be suitable for all homes. We can help you determine if a tankless system is the right choice for your needs."
+          }
+        ]
+      },
+      {
+        "slug": "leak-detection-repair",
+        "name": "Leak Detection & Repair",
+        "shortDescription": "Advanced leak detection and repair services to protect your home from water damage.",
+        "description": "Water leaks can cause significant damage to your Houston home if left undetected. First Aid Plumbing Specialist INC offers advanced leak detection and repair services to identify and fix leaks quickly and efficiently. We use the latest technology, including acoustic leak detection equipment and thermal imaging, to pinpoint the source of leaks behind walls, under floors, and in underground pipes. Our experienced technicians are skilled at repairing all types of leaks, from minor drips to major bursts.\n\nWe understand the urgency of leak detection and repair, and we're available 24/7 to respond to emergencies. We'll work quickly to locate the leak, minimize damage, and provide lasting repairs. Don't let a hidden leak ruin your home – call First Aid Plumbing Specialist INC for expert leak detection and repair services.",
+        "process": [
+          "Step 1: Use advanced technology to detect the leak's source.",
+          "Step 2: Assess the extent of the damage.",
+          "Step 3: Provide a detailed repair plan.",
+          "Step 4: Repair the leak and restore affected areas."
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Reduces water bills",
+          "Protects your home's structure",
+          "Eliminates mold growth"
+        ],
+        "faq": [
+          {
+            "question": "How can I tell if I have a hidden leak?",
+            "answer": "Unexplained increases in your water bill, damp spots on walls or ceilings, and the sound of running water when no fixtures are in use are all signs of a hidden leak."
+          },
+          {
+            "question": "What should I do if I suspect a leak?",
+            "answer": "Turn off your main water supply and call us immediately. The faster you address it, the less damage it will cause."
+          },
+          {
+            "question": "Are all leaks detectable?",
+            "answer": "With our advanced technology and expertise, we can detect even the smallest and most hidden leaks."
+          }
+        ]
+      },
+      {
+        "slug": "pipe-repair-replacement",
+        "name": "Pipe Repair & Replacement",
+        "shortDescription": "Reliable pipe repair and replacement services for Houston homes.",
+        "description": "Houston's climate and aging infrastructure can take a toll on your home's pipes. First Aid Plumbing Specialist INC offers comprehensive pipe repair and replacement services to address any issues, from minor leaks to major breaks. We work with all types of piping, including copper, PVC, and PEX, and we use the latest techniques to ensure lasting repairs. Whether you need a small section of pipe replaced or a complete repiping of your home, we have the expertise and equipment to get the job done right.\n\nWe understand that pipe problems can be disruptive, and we'll work quickly and efficiently to minimize the inconvenience. We'll provide you with a clear and detailed estimate before any work begins, and we'll keep you informed throughout the process. Don't let damaged pipes compromise your home's plumbing system – call First Aid Plumbing Specialist INC for expert pipe repair and replacement services.",
+        "process": [
+          "Step 1: Inspect the damaged pipes and assess the extent of the problem.",
+          "Step 2: Provide a detailed repair or replacement plan.",
+          "Step 3: Obtain necessary permits (if required).",
+          "Step 4: Repair or replace the damaged pipes and ensure proper connections."
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Improves water pressure",
+          "Eliminates leaks",
+          "Extends the life of your plumbing system"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my pipes need to be replaced?",
+            "answer": "Frequent leaks, low water pressure, and rusty water are all signs that your pipes may need to be replaced. An inspection from us can help determine the best course of action."
+          },
+          {
+            "question": "What type of piping is best for my home?",
+            "answer": "The best type of piping depends on your specific needs and budget. We can help you choose the right material for your home's plumbing system."
+          },
+          {
+            "question": "How long does pipe replacement take?",
+            "answer": "The duration of pipe replacement depends on the size and complexity of the job. We'll provide you with an estimated timeline before we begin."
+          }
+        ]
+      },
+      {
+        "slug": "sewer-line-services",
+        "name": "Sewer Line Services",
+        "shortDescription": "Expert sewer line repair, replacement, and cleaning for Houston properties.",
+        "description": "Sewer line problems can be messy and disruptive. First Aid Plumbing Specialist INC provides comprehensive sewer line services, including repair, replacement, and cleaning, to keep your sewer system functioning properly. We use trenchless technology whenever possible to minimize disruption to your property. Our experienced technicians are skilled at diagnosing and repairing all types of sewer line issues, from clogs and leaks to collapsed pipes.\n\nWe understand the importance of a properly functioning sewer line, and we're available 24/7 to respond to emergencies. We'll work quickly to diagnose the problem, provide a clear and detailed estimate, and perform the necessary repairs or replacements. Don't let sewer line problems disrupt your life – call First Aid Plumbing Specialist INC for expert sewer line services.",
+        "process": [
+          "Step 1: Inspect the sewer line using camera inspection.",
+          "Step 2: Diagnose the problem and determine the best solution.",
+          "Step 3: Repair or replace the sewer line using trenchless or traditional methods.",
+          "Step 4: Ensure proper flow and functionality."
+        ],
+        "benefits": [
+          "Prevents sewer backups",
+          "Eliminates foul odors",
+          "Protects your property from contamination",
+          "Ensures proper waste disposal"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a sewer line problem?",
+            "answer": "Slow-draining toilets, gurgling sounds in your drains, and sewage backups are all signs of a sewer line problem."
+          },
+          {
+            "question": "What is trenchless sewer line repair?",
+            "answer": "Trenchless sewer line repair is a method of repairing or replacing sewer lines without digging up your yard. It's less disruptive and often more cost-effective than traditional methods."
+          },
+          {
+            "question": "How much does sewer line repair cost?",
+            "answer": "The cost of sewer line repair depends on the extent of the damage and the method used. We'll provide you with a detailed estimate before we begin."
+          }
+        ]
+      },
+      {
+        "slug": "fixture-installation",
+        "name": "Fixture Installation",
+        "shortDescription": "Professional installation of faucets, sinks, toilets, showers, and other plumbing fixtures.",
+        "description": "Upgrading your plumbing fixtures can enhance the look and functionality of your Houston home. First Aid Plumbing Specialist INC offers professional fixture installation services for faucets, sinks, toilets, showers, and other plumbing fixtures. We work with all major brands and models, and we'll ensure that your new fixtures are properly installed and functioning efficiently.\n\nWhether you're remodeling your bathroom or simply replacing a worn-out faucet, our experienced technicians can handle the job with precision and care. We'll take the time to protect your home from damage and ensure that the installation is done correctly the first time. Don't trust your fixture installation to just anyone – call First Aid Plumbing Specialist INC for expert service.",
+        "process": [
+          "Step 1: Remove the old fixture.",
+          "Step 2: Prepare the area for the new fixture.",
+          "Step 3: Install the new fixture according to manufacturer's instructions.",
+          "Step 4: Test the fixture for proper operation and check for leaks."
+        ],
+        "benefits": [
+          "Enhances the look of your home",
+          "Improves functionality",
+          "Increases water efficiency",
+          "Adds value to your property"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer a warranty on fixture installations?",
+            "answer": "Yes, we offer a warranty on all of our fixture installations. Please contact us for details."
+          },
+          {
+            "question": "Can you help me choose the right fixtures for my home?",
+            "answer": "Yes, we can provide recommendations based on your needs and budget."
+          },
+          {
+            "question": "How long does fixture installation take?",
+            "answer": "The duration of fixture installation depends on the type of fixture and the complexity of the job. We'll provide you with an estimated timeline before we begin."
+          }
+        ]
+      },
+      {
+        "slug": "gas-line-services",
+        "name": "Gas Line Services",
+        "shortDescription": "Safe and reliable gas line repair, installation, and inspection services.",
+        "description": "Gas line issues require specialized expertise and caution. First Aid Plumbing Specialist INC offers safe and reliable gas line repair, installation, and inspection services for Houston homes and businesses. Our licensed and insured technicians are highly trained in gas line safety and compliance, ensuring that all work is performed to the highest standards. We can handle any gas line issue, from minor leaks to complete gas line installations.\n\nWe understand the importance of gas line safety, and we're available 24/7 to respond to gas line emergencies. If you suspect a gas leak, evacuate the premises immediately and call us from a safe location. Don't take chances with gas lines – call First Aid Plumbing Specialist INC for expert service.",
+        "process": [
+          "Step 1: Conduct a thorough gas line inspection.",
+          "Step 2: Detect and locate any gas leaks.",
+          "Step 3: Repair or replace damaged gas lines.",
+          "Step 4: Ensure proper gas line pressure and safety."
+        ],
+        "benefits": [
+          "Ensures gas line safety",
+          "Prevents gas leaks",
+          "Restores gas service",
+          "Complies with safety regulations"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if I smell gas?",
+            "answer": "Evacuate the premises immediately and call us from a safe location. Do not use any electrical appliances or open flames."
+          },
+          {
+            "question": "How often should I have my gas lines inspected?",
+            "answer": "We recommend an annual gas line inspection to ensure safety and prevent leaks."
+          },
+          {
+            "question": "Are you licensed and insured to perform gas line work?",
+            "answer": "Yes, we are fully licensed and insured to perform gas line work in Houston."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Sugar Land",
+        "slug": "sugar-land-tx",
+        "state": "TX",
+        "content": "First Aid Plumbing Specialist INC is proud to offer comprehensive plumbing services to the residents and businesses of Sugar Land, Texas. Known for its master-planned communities developed primarily in the 1990s and 2000s, Sugar Land presents unique plumbing needs, from maintaining efficient irrigation systems to addressing the wear and tear caused by the area's very hot and humid summers. We understand the specific challenges faced by homeowners in this area and are equipped to provide tailored solutions. \n\nOur team of experienced plumbers is dedicated to delivering prompt, reliable service, whether it's a minor repair or a major installation. We are committed to ensuring the plumbing systems in Sugar Land homes and businesses function optimally, providing peace of mind to our customers. From leak detection to drain cleaning and water heater services, First Aid Plumbing Specialist INC is your trusted partner for all your plumbing needs in Sugar Land.",
+        "localContext": "Sugar Land is characterized by its meticulously planned communities and is known for its high quality of life.",
+        "nearbyAreas": [
+          "Missouri City",
+          "Stafford",
+          "Richmond"
+        ]
+      },
+      {
+        "city": "Katy",
+        "slug": "katy-tx",
+        "state": "TX",
+        "content": "First Aid Plumbing Specialist INC provides expert plumbing services to the rapidly growing community of Katy, Texas. With its newer planned communities developed from the 2000s to the 2020s, Katy features modern homes with advanced plumbing systems. Our team is well-versed in the latest plumbing technologies and techniques, ensuring we can effectively address any plumbing issue you may encounter. The hot and humid summers in Katy can take a toll on plumbing, and we're here to help maintain your system's efficiency and prevent costly repairs.\n\nWe offer a wide range of services including leak detection and repair, drain cleaning, water heater installation and repair, and more. First Aid Plumbing Specialist INC is dedicated to providing top-notch plumbing solutions to keep your home or business running smoothly in Katy. We pride ourselves on our quick response times and commitment to customer satisfaction.",
+        "localContext": "Katy is known for its family-friendly atmosphere and numerous newer residential developments.",
+        "nearbyAreas": [
+          "Brookshire",
+          "Fulshear",
+          "Cypress"
+        ]
+      },
+      {
+        "city": "The Woodlands",
+        "slug": "the-woodlands-tx",
+        "state": "TX",
+        "content": "First Aid Plumbing Specialist INC is proud to serve The Woodlands, Texas, a vibrant master-planned community known for its beautiful homes and lush green spaces. With homes built from the 1980s to the present, The Woodlands presents a variety of plumbing systems that require specialized knowledge and care. Our experienced plumbers are equipped to handle any plumbing issue, from routine maintenance to complex repairs, ensuring your home's plumbing system functions flawlessly.\n\nThe Woodlands' hot and humid climate can put a strain on plumbing systems, leading to leaks, corrosion, and other issues. We offer comprehensive plumbing services, including leak detection, drain cleaning, water heater services, and more, to help you protect your investment. First Aid Plumbing Specialist INC is committed to providing reliable, efficient, and affordable plumbing solutions to the residents of The Woodlands.",
+        "localContext": "The Woodlands is a large master-planned community known for its extensive green spaces and community events.",
+        "nearbyAreas": [
+          "Spring",
+          "Conroe",
+          "Tomball"
+        ]
+      },
+      {
+        "city": "Pearland",
+        "slug": "pearland-tx",
+        "state": "TX",
+        "content": "First Aid Plumbing Specialist INC is dedicated to providing exceptional plumbing services to the residents of Pearland, Texas. Characterized by its 1990s and 2000s suburban developments, Pearland homes require reliable plumbing maintenance and repair services. We understand the unique needs of homeowners in this area and offer a wide range of services to keep your plumbing system in top condition. The hot and humid summers in Pearland can contribute to plumbing issues, and we're here to help prevent and address them.\n\nOur team of skilled plumbers is committed to delivering prompt, professional service, whether it's a leaky faucet, a clogged drain, or a water heater installation. First Aid Plumbing Specialist INC strives to provide the best plumbing solutions to ensure the comfort and safety of your home in Pearland. We pride ourselves on our customer satisfaction and our commitment to quality workmanship.",
+        "localContext": "Pearland is a large suburban city with a mix of established neighborhoods and newer developments.",
+        "nearbyAreas": [
+          "Friendswood",
+          "Alvin",
+          "League City"
+        ]
+      },
+      {
+        "city": "League City",
+        "slug": "league-city-tx",
+        "state": "TX",
+        "content": "First Aid Plumbing Specialist INC is pleased to offer comprehensive plumbing services to the growing community of League City, Texas. With its newer developments primarily from the 2000s onward, League City boasts modern homes with updated plumbing systems. Our team stays up-to-date on the latest plumbing technologies and techniques to efficiently address any plumbing issue you may encounter. The area's hot and humid summers, coupled with proximity to the coast, can impact plumbing, and we're here to offer preventative maintenance and reliable repairs.\n\nWe offer a full spectrum of plumbing services, including leak detection and repair, drain cleaning, water heater services, and more. First Aid Plumbing Specialist INC is dedicated to providing top-quality plumbing solutions to keep your home or business running smoothly in League City. We are known for our fast response times, transparent pricing, and commitment to customer satisfaction.",
+        "localContext": "League City is a coastal community with a mix of residential areas and commercial developments.",
+        "nearbyAreas": [
+          "Dickinson",
+          "Webster",
+          "Kemah"
+        ]
+      },
+      {
+        "city": "Missouri City",
+        "slug": "missouri-city-tx",
+        "state": "TX",
+        "content": "First Aid Plumbing Specialist INC delivers reliable plumbing services to the residents and businesses of Missouri City, TX. As a well-established community with a mix of older and newer homes, Missouri City presents a variety of plumbing needs. Our experienced team is equipped to handle everything from routine maintenance to complex repairs, ensuring your plumbing system functions optimally. We understand that maintaining a home in Missouri City requires addressing the challenges posed by the Texas climate.\n\nWe offer a comprehensive range of plumbing services, including leak detection and repair, drain cleaning, water heater maintenance, and more. First Aid Plumbing Specialist INC is committed to providing efficient, affordable, and trustworthy plumbing solutions to the Missouri City community. We prioritize customer satisfaction and strive to exceed your expectations with every service call.",
+        "localContext": "Missouri City is a diverse community with a blend of residential and commercial areas.",
+        "nearbyAreas": [
+          "Sugar Land",
+          "Stafford",
+          "Fresno"
+        ]
+      },
+      {
+        "city": "Spring",
+        "slug": "spring-tx",
+        "state": "TX",
+        "content": "First Aid Plumbing Specialist INC is proud to extend its plumbing services to the residents and businesses of Spring, TX. With a diverse range of housing options, from established neighborhoods to newer developments, Spring presents a variety of plumbing needs. Our team of skilled plumbers is prepared to handle any plumbing issue, big or small, ensuring your home or business remains comfortable and functional. We understand the importance of reliable plumbing in the Texas climate, and we're here to help.\n\nWe offer a wide range of plumbing services, including leak detection, drain cleaning, water heater repair and replacement, and more. First Aid Plumbing Specialist INC is committed to providing prompt, professional, and affordable plumbing solutions to the Spring community. We value our customers and strive to build lasting relationships based on trust and exceptional service.",
+        "localContext": "Spring is a large suburban area with a mix of residential and commercial developments, known for its family-friendly atmosphere.",
+        "nearbyAreas": [
+          "The Woodlands",
+          "Tomball",
+          "Conroe"
+        ]
+      },
+      {
+        "city": "Friendswood",
+        "slug": "friendswood-tx",
+        "state": "TX",
+        "content": "First Aid Plumbing Specialist INC is dedicated to providing top-notch plumbing services to the residents of Friendswood, Texas. As a well-established community with a mix of older and newer homes, Friendswood presents a variety of plumbing needs. Our experienced plumbers are equipped to handle any plumbing issue, from routine maintenance to complex repairs. We understand the specific challenges faced by homeowners in this area and are committed to providing tailored solutions.\n\nOur team is skilled in leak detection and repair, drain cleaning, water heater services, and more. First Aid Plumbing Specialist INC is committed to delivering prompt, reliable service, ensuring the plumbing systems in Friendswood homes function optimally, providing peace of mind to our customers. We are your trusted partner for all your plumbing needs in Friendswood.",
+        "localContext": "Friendswood is a charming city known for its excellent schools and close-knit community.",
+        "nearbyAreas": [
+          "Pearland",
+          "League City",
+          "Webster"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Water Heater Replacement",
+        "text": "Our water heater went out on a Sunday morning, and First Aid Plumbing Specialist INC was at our door within an hour. The technician, David, was professional, courteous, and quickly diagnosed the problem. He explained our options clearly and helped us choose a new water heater that fit our budget. The installation was quick and efficient, and we had hot water again by the afternoon. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Drain Cleaning",
+        "text": "We had a severely clogged kitchen sink that no amount of Drano could fix. First Aid Plumbing Specialist INC came out and used their hydro jetting service. It cleared the drain right away, and they even showed me the buildup of grease that was causing the problem. My only complaint is that the price was a little higher than I expected, but the service was worth it.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Linda K.",
+        "rating": 5,
+        "service": "Leak Detection & Repair",
+        "text": "I noticed a damp spot on my ceiling and called First Aid Plumbing Specialist INC. They used their leak detection equipment to quickly locate a hidden leak in my bathroom plumbing. The technician, Michael, was able to repair the leak with minimal damage to my walls. I was impressed with their professionalism and expertise. They saved me from a major water damage disaster!",
+        "date": "2025-04-05"
+      },
+      {
+        "name": "James L.",
+        "rating": 5,
+        "service": "Toilet Repair",
+        "text": "Our toilet was constantly running, wasting water and driving us crazy. First Aid Plumbing Specialist INC came out and quickly diagnosed the problem. They replaced the faulty parts and now our toilet is working perfectly. The technician was friendly and efficient, and the price was very reasonable.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Susan B.",
+        "rating": 5,
+        "service": "Sewer Line Cleaning",
+        "text": "We had a major sewer backup in our backyard. First Aid Plumbing Specialist INC came out and cleared the blockage quickly. They used a camera to inspect the sewer line and identified the cause of the backup. I was very impressed with their professionalism and efficiency.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Kevin M.",
+        "rating": 4,
+        "service": "Faucet Installation",
+        "text": "Had First Aid Plumbing Specialist INC install a new faucet in my bathroom. The plumber was on time and did a clean job. The new faucet looks great and works perfectly. Would use them again.",
+        "date": "2024-11-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Houston Plumber | First Aid Plumbing Specialist",
+        "description": "Reliable plumbing services in Houston, TX. 24/7 emergency plumbers. Water heater, drain cleaning, leak repair & more. Call +18322793065"
+      },
+      "about": {
+        "title": "About First Aid Plumbing Specialist INC",
+        "description": "Learn about First Aid Plumbing Specialist INC, Houston's trusted plumbing experts. Quality service, upfront pricing, and guaranteed satisfaction."
+      },
+      "services": {
+        "title": "Plumbing Services | Houston, TX",
+        "description": "Comprehensive plumbing services in Houston. Drain cleaning, water heater repair, leak detection, pipe repair & more. Call +18322793065"
+      },
+      "contact": {
+        "title": "Contact First Aid Plumbing Specialist INC",
+        "description": "Contact First Aid Plumbing Specialist INC for fast, reliable plumbing services in Houston. Call +18322793065 or fill out our online form."
+      },
+      "reviews": {
+        "title": "Customer Reviews | First Aid Plumbing Specialist",
+        "description": "Read what our satisfied customers are saying about First Aid Plumbing Specialist INC. Honest reviews, expert service, and guaranteed satisfaction."
+      },
+      "service-areas": {
+        "title": "Service Areas | Houston Plumbing",
+        "description": "First Aid Plumbing Specialist INC serves Houston, Sugar Land, Katy, The Woodlands, Pearland, and League City. Call +18322793065 for local plumbing."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "drain-cleaning": "/images/service-drain-cleaning.webp",
+      "water-heater-repair": "/images/service-water-heater-repair.webp",
+      "leak-detection-repair": "/images/service-leak-detection-repair.webp",
+      "pipe-repair-replacement": "/images/service-pipe-repair-replacement.webp",
+      "sewer-line-services": "/images/service-sewer-line-services.webp",
+      "fixture-installation": "/images/service-fixture-installation.webp",
+      "gas-line-services": "/images/service-gas-line-services.webp"
+    },
+    "servicesResponsive": {
+      "drain-cleaning": {
+        "src": "/images/service-drain-cleaning.webp",
+        "srcset": "/images/service-drain-cleaning-400w.webp 400w, /images/service-drain-cleaning-800w.webp 800w, /images/service-drain-cleaning-1200w.webp 1200w, /images/service-drain-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "water-heater-repair": {
+        "src": "/images/service-water-heater-repair.webp",
+        "srcset": "/images/service-water-heater-repair-400w.webp 400w, /images/service-water-heater-repair-800w.webp 800w, /images/service-water-heater-repair-1200w.webp 1200w, /images/service-water-heater-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "leak-detection-repair": {
+        "src": "/images/service-leak-detection-repair.webp",
+        "srcset": "/images/service-leak-detection-repair-400w.webp 400w, /images/service-leak-detection-repair-800w.webp 800w, /images/service-leak-detection-repair-1200w.webp 1200w, /images/service-leak-detection-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pipe-repair-replacement": {
+        "src": "/images/service-pipe-repair-replacement.webp",
+        "srcset": "/images/service-pipe-repair-replacement-400w.webp 400w, /images/service-pipe-repair-replacement-800w.webp 800w, /images/service-pipe-repair-replacement-1200w.webp 1200w, /images/service-pipe-repair-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sewer-line-services": {
+        "src": "/images/service-sewer-line-services.webp",
+        "srcset": "/images/service-sewer-line-services-400w.webp 400w, /images/service-sewer-line-services-800w.webp 800w, /images/service-sewer-line-services-1200w.webp 1200w, /images/service-sewer-line-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fixture-installation": {
+        "src": "/images/service-fixture-installation.webp",
+        "srcset": "/images/service-fixture-installation-400w.webp 400w, /images/service-fixture-installation-800w.webp 800w, /images/service-fixture-installation-1200w.webp 1200w, /images/service-fixture-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gas-line-services": {
+        "src": "/images/service-gas-line-services.webp",
+        "srcset": "/images/service-gas-line-services-400w.webp 400w, /images/service-gas-line-services-800w.webp 800w, /images/service-gas-line-services-1200w.webp 1200w, /images/service-gas-line-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
